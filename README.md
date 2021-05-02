@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glaubermag" alt="glaubermag" /></a> </p>
 
-- 🔭 I’m currently working on [7waves](http://7waves.me/)
+- 🔭 I’m currently working on [Accenture](https://accenture.com)
 
 - 🌱 I’m currently learning **React.js, Python, MongoDB**
 
