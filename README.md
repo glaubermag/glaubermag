@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaubermag&label=Profile%20views&color=0e75b6&style=flat" alt="glaubermag" /> </p>
 
 
-- 🔭 I’m currently working on [Accenture](https://accenture.com)
+- 🔭 I’m currently working on [5by5](https://www.linkedin.com/company/5by5solucoesti/)
 
 - 🌱 I’m currently learning **React.js, Python, MongoDB**
 
