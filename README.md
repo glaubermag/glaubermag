@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [5by5](https://www.linkedin.com/company/5by5solucoesti/)
 
-- 🌱 I’m currently learning **React.js, Python, MongoDB**
+- 🌱 I’m currently learning **React.js, React Native and Swift**
 
 - 💬 Ask me about **React.js, React Native, C, PHP, HTML, CSS, JS**
 
