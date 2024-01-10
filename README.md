@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Glauber Ariel Magalhães</h1>
-<h3 align="center">A passionate frontend developer from São Roque, SP - Brazil</h3>
+<h3 align="center">A passionate frontend developer from Sorocaba, SP - Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaubermag&label=Profile%20views&color=0e75b6&style=flat" alt="glaubermag" /> </p>
 
 
-- 🔭 I’m currently working on [Aubay Portugal](https://www.linkedin.com/company/aubay-portugal/mycompany/)
+- 🔭 I’m currently working on [Aubay Portugal](https://www.linkedin.com/company/aubay-portugal/)
 
-- 🌱 I’m currently learning **React.js, React Native and Swift**
+- 🌱 I’m currently learning **Vue.js, Java and Adobe Experience Manager**
 
 - 💬 Ask me about **React.js, React Native, C, PHP, HTML, CSS, JS**
 
