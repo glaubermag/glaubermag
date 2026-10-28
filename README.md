@@ -71,7 +71,7 @@ I work across the stack, but frontend engineering is where I started: thoughtful
   </tr>
 </table>
 
-<p align="center"><a href="https://glaubermag.dev.br/projects"><b>More projects and technical case studies →</b></a></p>
+<p align="center"><a href="https://glaubermag.dev.br/#projects"><b>More projects and technical case studies →</b></a></p>
 
 ## ✍️ Notes from the field
 
